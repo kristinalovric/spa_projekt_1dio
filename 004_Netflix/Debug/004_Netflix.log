@@ -1,0 +1,10 @@
+﻿  Date.cpp
+  MovieOrShow.cpp
+  Source.cpp
+C:\Users\Kristina\source\repos\KristinaLovricMatijevic_SPA_PZ004\004_Netflix\Source.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Kristina\source\repos\KristinaLovricMatijevic_SPA_PZ004\004_Netflix\Source.cpp(229,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Utils.cpp
+  Generating Code...
+C:\Users\Kristina\source\repos\KristinaLovricMatijevic_SPA_PZ004\004_Netflix\Source.cpp(259,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kristina\source\repos\KristinaLovricMatijevic_SPA_PZ004\004_Netflix\Date.cpp(122): warning C4715: 'Date::convert_month': not all control paths return a value
+  004_Netflix.vcxproj -> C:\Users\Kristina\source\repos\KristinaLovricMatijevic_SPA_PZ004\Debug\004_Netflix.exe
